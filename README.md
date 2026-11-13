@@ -1,2 +1,0 @@
-# madelief-hekker
-Portfolio website
