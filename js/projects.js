@@ -35,7 +35,7 @@ window.PROJECTS = [
       "Packaging",
       "Branding"
     ],
-    "cover": "images/projects/atlas-coffee/cover.svg",
+    "cover": "images/projects/atlas-coffee/tempimagehw9wgf-20261113164845.jpg",
     "intro": "A packaging system that turns each single-origin bean into its own small map.",
     "description": [
       "Each bag carries an abstract map of the farm region it came from, generated from real topographic data."
